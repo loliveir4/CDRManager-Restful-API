@@ -85,7 +85,7 @@ There are unit tests to ensure the DbService methods (like getting call summarie
 <ol>
   <li>
     <strong>Clone the repository:</strong>
-    <pre><code>git clone https://github.com/your-username/CDRManager.git</code></pre>
+    <pre><code>git clone https://github.com/loliveir4/CDRManager.git</code></pre>
     <pre><code>cd CDRManager</code></pre>
   </li>
 
