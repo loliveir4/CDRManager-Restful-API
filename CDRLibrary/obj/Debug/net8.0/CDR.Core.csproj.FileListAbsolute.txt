@@ -1,0 +1,22 @@
+C:\Users\loliveira\Source\Repos\CDRLibrary\bin\Debug\net8.0\CDR.Core.deps.json
+C:\Users\loliveira\Source\Repos\CDRLibrary\bin\Debug\net8.0\CDR.Core.dll
+C:\Users\loliveira\Source\Repos\CDRLibrary\bin\Debug\net8.0\CDR.Core.pdb
+C:\Users\loliveira\Source\Repos\CDRLibrary\obj\Debug\net8.0\CDR.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loliveira\Source\Repos\CDRLibrary\obj\Debug\net8.0\CDR.Core.AssemblyInfoInputs.cache
+C:\Users\loliveira\Source\Repos\CDRLibrary\obj\Debug\net8.0\CDR.Core.AssemblyInfo.cs
+C:\Users\loliveira\Source\Repos\CDRLibrary\obj\Debug\net8.0\CDR.Core.csproj.CoreCompileInputs.cache
+C:\Users\loliveira\Source\Repos\CDRLibrary\obj\Debug\net8.0\CDR.Core.dll
+C:\Users\loliveira\Source\Repos\CDRLibrary\obj\Debug\net8.0\refint\CDR.Core.dll
+C:\Users\loliveira\Source\Repos\CDRLibrary\obj\Debug\net8.0\CDR.Core.pdb
+C:\Users\loliveira\Source\Repos\CDRLibrary\obj\Debug\net8.0\ref\CDR.Core.dll
+C:\Users\loliveira\OneDrive - PCTS\Documents\CDRManager\CDRLibrary\bin\Debug\net8.0\CDR.Core.deps.json
+C:\Users\loliveira\OneDrive - PCTS\Documents\CDRManager\CDRLibrary\bin\Debug\net8.0\CDR.Core.dll
+C:\Users\loliveira\OneDrive - PCTS\Documents\CDRManager\CDRLibrary\bin\Debug\net8.0\CDR.Core.pdb
+C:\Users\loliveira\OneDrive - PCTS\Documents\CDRManager\CDRLibrary\obj\Debug\net8.0\CDR.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loliveira\OneDrive - PCTS\Documents\CDRManager\CDRLibrary\obj\Debug\net8.0\CDR.Core.AssemblyInfoInputs.cache
+C:\Users\loliveira\OneDrive - PCTS\Documents\CDRManager\CDRLibrary\obj\Debug\net8.0\CDR.Core.AssemblyInfo.cs
+C:\Users\loliveira\OneDrive - PCTS\Documents\CDRManager\CDRLibrary\obj\Debug\net8.0\CDR.Core.csproj.CoreCompileInputs.cache
+C:\Users\loliveira\OneDrive - PCTS\Documents\CDRManager\CDRLibrary\obj\Debug\net8.0\CDR.Core.dll
+C:\Users\loliveira\OneDrive - PCTS\Documents\CDRManager\CDRLibrary\obj\Debug\net8.0\refint\CDR.Core.dll
+C:\Users\loliveira\OneDrive - PCTS\Documents\CDRManager\CDRLibrary\obj\Debug\net8.0\CDR.Core.pdb
+C:\Users\loliveira\OneDrive - PCTS\Documents\CDRManager\CDRLibrary\obj\Debug\net8.0\ref\CDR.Core.dll

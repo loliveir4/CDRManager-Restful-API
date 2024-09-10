@@ -1,0 +1,11 @@
+C:\Users\loliveira\Source\Repos\CDRLibrary\bin\Debug\net8.0\CDRLibrary.deps.json
+C:\Users\loliveira\Source\Repos\CDRLibrary\bin\Debug\net8.0\CDRLibrary.dll
+C:\Users\loliveira\Source\Repos\CDRLibrary\bin\Debug\net8.0\CDRLibrary.pdb
+C:\Users\loliveira\Source\Repos\CDRLibrary\obj\Debug\net8.0\CDRLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loliveira\Source\Repos\CDRLibrary\obj\Debug\net8.0\CDRLibrary.AssemblyInfoInputs.cache
+C:\Users\loliveira\Source\Repos\CDRLibrary\obj\Debug\net8.0\CDRLibrary.AssemblyInfo.cs
+C:\Users\loliveira\Source\Repos\CDRLibrary\obj\Debug\net8.0\CDRLibrary.csproj.CoreCompileInputs.cache
+C:\Users\loliveira\Source\Repos\CDRLibrary\obj\Debug\net8.0\CDRLibrary.dll
+C:\Users\loliveira\Source\Repos\CDRLibrary\obj\Debug\net8.0\refint\CDRLibrary.dll
+C:\Users\loliveira\Source\Repos\CDRLibrary\obj\Debug\net8.0\CDRLibrary.pdb
+C:\Users\loliveira\Source\Repos\CDRLibrary\obj\Debug\net8.0\ref\CDRLibrary.dll
