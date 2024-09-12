@@ -137,7 +137,10 @@ Given more time, the following improvements could be made:
   <li><strong>Authentication and Authorization:</strong> Implement authentication (e.g., JWT, OAuth) to secure the endpoints and ensure only authorized users can access sensitive data.</li>
 
   <li><strong>Error Handling:</strong> Improve error handling by providing more detailed responses with appropriate HTTP status codes and error messages.</li>
+
+  <li><strong>Pagination:</strong> Depending on the size of the data returned, especially for lists of CDRs, it may be interesting to implement pagination for large volumes of data (using parameters such as page and pageSize).</li>
 </ul>
 
 
 <p align="center">Developed by Lucas Oliveira</p>
+<p align="center">Email: lucasa.dev21@hotmal.com</p>
