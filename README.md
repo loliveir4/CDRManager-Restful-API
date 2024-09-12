@@ -31,7 +31,7 @@ Several key design patterns were implemented to ensure a modular and testable ar
 </ul>
 
 <hr />
-<h2>Project Overview: CDRManager</h2>
+<h2>📋Project Overview: CDRManager</h2>
 <p>
 <strong>Purpose:</strong> The project manages and processes Call Detail Records (CDRs), which log details of phone calls such as the caller, call duration, cost, and more. It provides services for storing, querying, and summarizing this call data.
 </p>
