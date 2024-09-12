@@ -16,6 +16,7 @@ C:\Users\loliveira\OneDrive - PCTS\Documents\CDRManager\CDRLibrary\obj\Debug\net
 C:\Users\loliveira\OneDrive - PCTS\Documents\CDRManager\CDRLibrary\obj\Debug\net8.0\CDR.Core.AssemblyInfoInputs.cache
 C:\Users\loliveira\OneDrive - PCTS\Documents\CDRManager\CDRLibrary\obj\Debug\net8.0\CDR.Core.AssemblyInfo.cs
 C:\Users\loliveira\OneDrive - PCTS\Documents\CDRManager\CDRLibrary\obj\Debug\net8.0\CDR.Core.csproj.CoreCompileInputs.cache
+C:\Users\loliveira\OneDrive - PCTS\Documents\CDRManager\CDRLibrary\obj\Debug\net8.0\CDR.Core.sourcelink.json
 C:\Users\loliveira\OneDrive - PCTS\Documents\CDRManager\CDRLibrary\obj\Debug\net8.0\CDR.Core.dll
 C:\Users\loliveira\OneDrive - PCTS\Documents\CDRManager\CDRLibrary\obj\Debug\net8.0\refint\CDR.Core.dll
 C:\Users\loliveira\OneDrive - PCTS\Documents\CDRManager\CDRLibrary\obj\Debug\net8.0\CDR.Core.pdb

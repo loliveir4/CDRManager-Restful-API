@@ -1,5 +1,6 @@
 ﻿namespace CDRTests.DbServiceTests;
 
+//Arrange (Configuration), Act (Execution) and Assert (Validation)
 public class SearchByReference : TestBase
 {
 
@@ -34,7 +35,5 @@ public class SearchByReference : TestBase
         // Assert
         Assert.Null(result);
     }
-
-
 
 }

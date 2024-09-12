@@ -1,7 +1,4 @@
-﻿using CDRLibrary.Models;
-using CDRManager.Data;
-using CDRManager.Services;
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
 
 namespace CDRTests;
 
@@ -12,9 +9,8 @@ public abstract class TestBase : IDisposable
 
     public TestBase()
     {
-        // Configurando o DbContext para usar um banco de dados InMemory
         var options = new DbContextOptionsBuilder<CDRContext>()
-            .UseInMemoryDatabase(databaseName: Guid.NewGuid().ToString())  // Nome único para cada teste
+            .UseInMemoryDatabase(databaseName: Guid.NewGuid().ToString())
             .Options;
 
         _context = new CDRContext(options);
@@ -29,12 +25,29 @@ public abstract class TestBase : IDisposable
 
     protected async Task AddCallRecordAsync()
     {
-        var cdrRecord = TestHelpers.CreateCallDetailRecord(reference: "TEST123", callDate: new DateTime(2023, 01, 15), duration: 120, callType: CallType.Domestic);
-        _context.CallDetailRecords.Add(cdrRecord);
+        // Primeiro registro
+        var cdrRecord1 = TestHelpers.CreateCallDetailRecord(
+            reference: "TEST123",
+            callDate: new DateTime(2023, 01, 15),
+            duration: 120,
+            callType: CallType.Domestic
+        );
+
+        // Segundo registro
+        var cdrRecord2 = TestHelpers.CreateCallDetailRecord(
+            reference: "TEST124",
+            callDate: new DateTime(2023, 01, 16),
+            duration: 150,
+            callType: CallType.Domestic
+        );
+
+        _context.CallDetailRecords.Add(cdrRecord1);
+        _context.CallDetailRecords.Add(cdrRecord2);
+
         await _context.SaveChangesAsync();
     }
 
-    // Método Dispose para liberar os recursos do contexto após os testes
+
     public void Dispose()
     {
         _context.Dispose();

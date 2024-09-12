@@ -1,4 +1,4 @@
-﻿using CDRLibrary.Models;
+﻿using CDR.Core.Models;
 
 namespace CDRManager.Services.Interfaces;
 

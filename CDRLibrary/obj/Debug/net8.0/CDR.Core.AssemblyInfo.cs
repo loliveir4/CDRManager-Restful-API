@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CDR.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4287074a5eee911fc395e00aa2b4b998e6f53c16")]
 [assembly: System.Reflection.AssemblyProductAttribute("CDR.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CDR.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

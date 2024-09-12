@@ -1,11 +1,4 @@
-﻿using CDRLibrary.Models;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace CDRTests;
+﻿namespace CDRTests;
 
 public static class TestHelpers
 {
@@ -15,7 +8,7 @@ public static class TestHelpers
         DateTime? callDate = null,
         TimeSpan? endTime = null,
         int duration = 120,
-        decimal cost = 0m,
+        decimal cost = 0.1m,
         string reference = "DEFAULT",
         string currency = "GBP",
         CallType callType = CallType.Domestic)

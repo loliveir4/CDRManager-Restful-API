@@ -3,17 +3,91 @@
   "WorkspaceRootPath": "C:\\Users\\loliveira\\OneDrive - PCTS\\Documents\\CDRManager\\CDRManager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\loliveira\\Source\\Repos\\CDRTests\\TestBase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A3641F8-157E-426D-8C43-406D404740FE}|CDRManager.csproj|c:\\users\\loliveira\\onedrive - pcts\\documents\\cdrmanager\\cdrmanager\\services\\registercallservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A3641F8-157E-426D-8C43-406D404740FE}|CDRManager.csproj|solutionrelative:services\\registercallservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3641F8-157E-426D-8C43-406D404740FE}|CDRManager.csproj|c:\\users\\loliveira\\onedrive - pcts\\documents\\cdrmanager\\cdrmanager\\controllers\\cdrcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A3641F8-157E-426D-8C43-406D404740FE}|CDRManager.csproj|solutionrelative:controllers\\cdrcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A9DFA3B-817D-4780-8095-03C55FB4099D}|..\\CDRTests\\CDRTests.csproj|c:\\users\\loliveira\\onedrive - pcts\\documents\\cdrmanager\\cdrtests\\dbservicetests\\getcallsummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3641F8-157E-426D-8C43-406D404740FE}|CDRManager.csproj|c:\\users\\loliveira\\onedrive - pcts\\documents\\cdrmanager\\cdrmanager\\services\\dbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A3641F8-157E-426D-8C43-406D404740FE}|CDRManager.csproj|solutionrelative:services\\dbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
     {
-      "Orientation": 0,
+      "Orientation": 1,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "DockedHeight": 387,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegisterCallService.cs",
+              "DocumentMoniker": "C:\\Users\\loliveira\\OneDrive - PCTS\\Documents\\CDRManager\\CDRManager\\Services\\RegisterCallService.cs",
+              "RelativeDocumentMoniker": "Services\\RegisterCallService.cs",
+              "ToolTip": "C:\\Users\\loliveira\\OneDrive - PCTS\\Documents\\CDRManager\\CDRManager\\Services\\RegisterCallService.cs",
+              "RelativeToolTip": "Services\\RegisterCallService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T11:18:10.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetCallSummary.cs",
+              "DocumentMoniker": "C:\\Users\\loliveira\\OneDrive - PCTS\\Documents\\CDRManager\\CDRTests\\DbServiceTests\\GetCallSummary.cs",
+              "RelativeDocumentMoniker": "..\\CDRTests\\DbServiceTests\\GetCallSummary.cs",
+              "ToolTip": "C:\\Users\\loliveira\\OneDrive - PCTS\\Documents\\CDRManager\\CDRTests\\DbServiceTests\\GetCallSummary.cs",
+              "RelativeToolTip": "..\\CDRTests\\DbServiceTests\\GetCallSummary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T11:09:19.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CDRController.cs",
+              "DocumentMoniker": "C:\\Users\\loliveira\\OneDrive - PCTS\\Documents\\CDRManager\\CDRManager\\Controllers\\CDRController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CDRController.cs",
+              "ToolTip": "C:\\Users\\loliveira\\OneDrive - PCTS\\Documents\\CDRManager\\CDRManager\\Controllers\\CDRController.cs",
+              "RelativeToolTip": "Controllers\\CDRController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T11:07:01.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DbService.cs",
+              "DocumentMoniker": "C:\\Users\\loliveira\\OneDrive - PCTS\\Documents\\CDRManager\\CDRManager\\Services\\DbService.cs",
+              "RelativeDocumentMoniker": "Services\\DbService.cs",
+              "ToolTip": "C:\\Users\\loliveira\\OneDrive - PCTS\\Documents\\CDRManager\\CDRManager\\Services\\DbService.cs",
+              "RelativeToolTip": "Services\\DbService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T11:04:57.257Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 387,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,17 +136,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e3fb24c2-2e84-3146-a5f8-bc25bbc68f8a}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TestBase.cs",
-              "DocumentMoniker": "C:\\Users\\loliveira\\Source\\Repos\\CDRTests\\TestBase.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\Source\\Repos\\CDRTests\\TestBase.cs",
-              "ToolTip": "C:\\Users\\loliveira\\Source\\Repos\\CDRTests\\TestBase.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\Source\\Repos\\CDRTests\\TestBase.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T16:18:31.953Z"
             }
           ]
         }

@@ -1,4 +1,4 @@
-﻿namespace CDRLibrary.Models;
+﻿namespace CDR.Core.Models;
 
 public class CallerFilter : CallSumary
 {

@@ -21,14 +21,14 @@ public class CDRController : ControllerBase
     public async Task<IActionResult> UploadFile(IFormFile file)
     {
         if (file == null || file.Length == 0)
-        {
-            return BadRequest("No file was uploaded.");
-        }
+            return BadRequest("The provided file is null or empty.");
+
+        if (!file.FileName.EndsWith(".csv"))
+            return BadRequest("Invalid file format. Please upload a .csv file.");
 
         try
         {
-
-            var cdrRecords = await _registerService.ProcessFileAsync(file);
+            var (cdrRecords, errorLines) = await _registerService.ProcessFileAsync(file);
 
             if (cdrRecords == null || cdrRecords.Count == 0)
             {
@@ -37,12 +37,20 @@ public class CDRController : ControllerBase
 
             await _dbService.AddCdrRecordsAsync(cdrRecords);
 
-            return Ok(new { message = "CDR file uploaded and processed successfully.", recordCount = cdrRecords.Count });
+            var response = new
+            {
+                message = "CDR file uploaded and processed successfully.",
+                recordCount = cdrRecords.Count,
+                errorCount = errorLines.Count,
+                errors = errorLines.Count > 0 ? errorLines : null
+            };
+
+            return Ok(response);
         }
         catch (Exception ex)
         {
             _logger.LogError(ex, "Error occurred during file upload");
-            return StatusCode(500, "An error occurred while processing the file.");
+            return StatusCode(500, "An internal error occurred while processing the file. Please try again later.");
         }
     }
 

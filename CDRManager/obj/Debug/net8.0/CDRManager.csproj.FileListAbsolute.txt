@@ -262,6 +262,7 @@ C:\Users\loliveira\OneDrive - PCTS\Documents\CDRManager\CDRManager\obj\Debug\net
 C:\Users\loliveira\OneDrive - PCTS\Documents\CDRManager\CDRManager\obj\Debug\net8.0\CDRManager.csproj.CoreCompileInputs.cache
 C:\Users\loliveira\OneDrive - PCTS\Documents\CDRManager\CDRManager\obj\Debug\net8.0\CDRManager.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\loliveira\OneDrive - PCTS\Documents\CDRManager\CDRManager\obj\Debug\net8.0\CDRManager.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\loliveira\OneDrive - PCTS\Documents\CDRManager\CDRManager\obj\Debug\net8.0\CDRManager.sourcelink.json
 C:\Users\loliveira\OneDrive - PCTS\Documents\CDRManager\CDRManager\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\loliveira\OneDrive - PCTS\Documents\CDRManager\CDRManager\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\loliveira\OneDrive - PCTS\Documents\CDRManager\CDRManager\obj\Debug\net8.0\staticwebassets\msbuild.CDRManager.Microsoft.AspNetCore.StaticWebAssets.props

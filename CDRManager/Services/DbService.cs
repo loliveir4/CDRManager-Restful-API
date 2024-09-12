@@ -1,5 +1,4 @@
-﻿using CDRManager.Migrations;
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
 
 namespace CDRManager.Services;
 
@@ -10,7 +9,7 @@ public class DbService : IDbService
     public DbService(CDRContext context) => _context = context;
 
     /// <summary>
-    /// Reads a list of CDR records from a source (like a CSV file) and saves the data to SQL Server.
+    /// Get a List of Records and save in data base.
     /// </summary>
     public async Task AddCdrRecordsAsync(List<CallDetailRecord> cdrRecords)
     {

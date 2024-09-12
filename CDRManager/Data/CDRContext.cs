@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using CDR.Core.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace CDRManager.Data;
 
