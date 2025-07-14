@@ -143,4 +143,4 @@ Given more time, the following improvements could be made:
 
 
 <p align="center">Developed by Lucas Oliveira</p>
-<p align="center">Email: lucasa.dev21@hotmal.com</p>
+<p align="center">Email: lucas.dev21@hotmal.com</p>
